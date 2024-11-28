@@ -37,7 +37,7 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
-    <a href="https://github.com/prajwal3104?tab=repositories" target="_blank">
+    <a href="https://github.com/iprajwaal?tab=repositories" target="_blank">
     <img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&color=00f200&width=535&lines=Checkout+my+work;let's+Connect!" alt="Follow your Dreams!"/>
 </a>
   </div>
@@ -45,7 +45,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-%ffa700.svg?logo=Gmail&logoColor=white)](mailto:prajwal0836@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-kumbar) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prajwal_b_k/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iprajwaal/)
 
 <img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
 <!-- <a href="https://wakatime.com/@a015658b-a50e-435d-981d-342ca0b50208"><img src="https://wakatime.com/badge/user/a015658b-a50e-435d-981d-342ca0b50208.svg" alt="Total time coded since Sep 14 2023" /></a> -->
@@ -61,9 +61,9 @@
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=prajwal3104&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=iprajwaal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ---
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal3104&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=iprajwaal&theme=dark&hide_border=false)<br/>
   ---
  <a width="40" href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2" alt="GitRoll Profile Badge"/></a>
 </div>
@@ -72,6 +72,6 @@
 
 <div align = "center">
 
-  ![](https://github-profile-trophy.vercel.app/?username=prajwal3104&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=iprajwaal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </dev>
 
