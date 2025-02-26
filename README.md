@@ -21,15 +21,18 @@
       <img height="150" src="https://github.com/user-attachments/assets/26b44964-d960-483f-8a8d-924260831435" width="150" align="right" />
     </a>
   </div>
-    <ul>
+  <ul>
       <!-- List items go here -->
-      <li>🦾 I'm community Builder for <a href="https://github.com/TFUGJalandhar">TFUG Jalandhar</a> as Co-organizer</li>
-      <li>🌱 I’m currently learning <strong>MLOps and Bigdata</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>MLOps Projects</strong></li>
-      <li>🫂 I’m happy to help with Machine Learning projects</li>
-      <li>🔧 I'm Versatile and eager to adapt to new tech</li>
-      <li>🤝 I'm Open to New Opportunities and Exciting Collaborations</li>
-    </ul>
+      <li>🦾 Co-organizer at <a href="https://github.com/TFUGJalandhar">TFUG Jalandhar</a></li>
+      <li>🌱 Learning <strong>MLOps, Big Data, and Cloud AI</strong></li>
+      <li>👯 Open to <strong>MLOps and AI Cloud Projects</strong></li>
+      <li>🫂 Helping with ML and Data Science projects</li>
+      <li>🔧 Adaptable to new tech like GenAI,LLM's, Agentic AI and workflows</li>
+      <li>🤝 Open to exciting opportunities and collaborations</li>
+      <li>🚀 Built <a href="https://github.com/iprajwaal/StorySpinner">StorySpinner</a>, boosting user engagement by 30%</li>
+      <li>🦿 Created <a href="https://github.com/iprajwaal/Enhanced-Vision-Assistant">Vision Assistant</a> with 95% hazard detection accuracy</li>
+      <li>📄 Published at ETNCC 2024: <a href="https://ieeexplore.ieee.org/document/10767564">StorySpinner: AI for Web Narration</a></li>
+  </ul>   
   </div>
 </div>
 
@@ -62,10 +65,8 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=iprajwaal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ---
   ![](https://github-readme-streak-stats.herokuapp.com/?user=iprajwaal&theme=dark&hide_border=false)<br/>
-  ---
- <a width="40" href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2" alt="GitRoll Profile Badge"/></a>
+<a width="40" href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2" alt="GitRoll Profile Badge"/></a>
 </div>
 
 # 🏆 GitHub Trophies
