@@ -57,7 +57,22 @@
 ---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,c,cpp,css,cloudflare,django,docker,dynamodb,figma,firebase,flask,gcp,git,github,go,html,idea,java,js,jenkins,kafka,kubernetes,latex,linux,matlab,mongodb,mysql,nextjs,nodejs,postman,postgres,powershell,py,pytorch,tensorflow,ts,vscode workers&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,java&perline=7&theme=dark" />
+</p>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,react,nextjs,nodejs,express&perline=7&theme=dark" />
+</p>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=tailwind,vite,mysql,postgres,mongodb,sqlite,redis&perline=7&theme=dark" />
+</p>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,firebase,cloudflare,graphql,kafka&perline=7&theme=dark" />
+</p>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,git,vscode,postman&perline=7&theme=dark" />
+</p>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,nginx,figma,ai&perline=7&theme=dark" />
 </p>
 
 # 📊 GitHub Stats:
