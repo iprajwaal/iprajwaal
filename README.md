@@ -80,15 +80,10 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=iprajwaal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=iprajwaal&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com?user=iprajwaal&theme=transparent&hide_border=true&stroke=EB5454)<br/>
 <a width="40" href="https://gitroll.io/profile/uWO3idevCs0NwOIUiqxsqWb5VVfP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWO3idevCs0NwOIUiqxsqWb5VVfP2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 </div>
 
 
-# 🏆 GitHub Trophies
-
-<div align = "center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=iprajwaal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </dev>
 
