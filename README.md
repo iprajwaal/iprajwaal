@@ -32,6 +32,7 @@
       <li>🚀 Built <a href="https://github.com/iprajwaal/StorySpinner">StorySpinner</a>, boosting user engagement by 30%</li>
       <li>🦿 Created <a href="https://github.com/iprajwaal/Enhanced-Vision-Assistant">Vision Assistant</a> with 95% hazard detection accuracy</li>
       <li>📄 Published at ETNCC 2024: <a href="https://ieeexplore.ieee.org/document/10767564">StorySpinner: AI for Web Narration</a></li>
+    
   </ul>   
   </div>
 </div>
@@ -47,11 +48,11 @@
 </div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-%ffa700.svg?logo=Gmail&logoColor=white)](mailto:prajwal0836@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-kumbar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-kumbar)
+
 
 <img src="https://komarev.com/ghpvc/?username=prajwal3104&label=Profile%20views&color=B048B5&style=plastic" alt="prajwal3104" />
-<!-- <a href="https://wakatime.com/@a015658b-a50e-435d-981d-342ca0b50208"><img src="https://wakatime.com/badge/user/a015658b-a50e-435d-981d-342ca0b50208.svg" alt="Total time coded since Sep 14 2023" /></a> -->
-
+<a href="https://wakatime.com/@a015658b-a50e-435d-981d-342ca0b50208"><img src="https://wakatime.com/badge/user/a015658b-a50e-435d-981d-342ca0b50208.svg" alt="Total time coded since Sep 14 2023" /></a>
 
 ---
 <h3 align="center">Languages and Tools:</h3>
