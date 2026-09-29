@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, 𝐼'𝑚 <a href="https://g.co/kgs/JK7U8c">Prajwal Kumbar 👨🏻</a></h1>
+<h1 align="center">Hey there 👋, 𝐼'𝑚 <a href="https://g.co/kgs/JK7U8c">Prajwal Kumbar</a> 👨🏻</h1>
 <h3 align="center">A passionate ML Developer, with a knack for Data Engineering from India 🇮🇳</h3>
 
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="MasterHead" width="100%">
